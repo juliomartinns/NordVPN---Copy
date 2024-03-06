@@ -9,3 +9,7 @@
 .font-xs {
   font: 600 0.875rem/1.43 "Inter", Arial;
 }
+
+.font-s {
+  font: 600 0.75rem/1.1 "Inter", Arial;
+}
