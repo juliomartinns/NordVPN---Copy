@@ -1,0 +1,7 @@
+:root {
+  --cor-10: #2a2b32;
+}
+
+.cor-10 {
+  color: var(--cor-10);
+}
