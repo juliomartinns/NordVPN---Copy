@@ -36,14 +36,14 @@
 
 .header-botao {
   padding: 9px 24px;
-  color: #fff;
+  color: var(--cor-0);
   font-size: 12px;
   background: #e02f1f;
   border-radius: 32px;
 }
 
 .header-botao:hover {
-  background-color: #fff;
+  background-color: var(--cor-0);
   border: 1px solid #e02f1f;
   color: var(--cor-10);
 }

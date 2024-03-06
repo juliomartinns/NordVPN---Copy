@@ -1,0 +1,30 @@
+.intro-img-content {
+  text-align: center;
+  background: url("../../img/home-page/img-intro.jpg") no-repeat;
+  padding: 100px;
+  max-width: 1600px;
+}
+
+.intro-img-content h1 {
+  margin-bottom: 32px;
+  color: var(--cor-0);
+}
+
+.intro-img-content p {
+  color: var(--cor-0);
+}
+
+@media (max-width: 1250px) {
+  .intro-img-content h1 {
+    font-size: 2.25rem;
+  }
+}
+
+@media (max-width: 650px) {
+  .intro-img-content {
+    padding: 80px;
+  }
+  .intro-img-content h1 {
+    font-size: 1.75rem;
+  }
+}
