@@ -20,11 +20,14 @@
   }
 }
 
-@media (max-width: 650px) {
+@media (max-width: 780px) {
   .intro-img-content {
     padding: 80px;
   }
   .intro-img-content h1 {
     font-size: 1.75rem;
+  }
+  .intro-img-content h1 {
+    margin-bottom: 24px;
   }
 }
