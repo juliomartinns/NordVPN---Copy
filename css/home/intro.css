@@ -1,12 +1,12 @@
 .intro-img-content {
   text-align: center;
   background: url("../../img/home-page/img-intro.jpg") no-repeat;
-  padding: 82px;
+  padding: 140px;
   max-width: 1600px;
 }
 
 .intro-img-content h1 {
-  margin-bottom: 32px;
+  margin-bottom: 24px;
   color: var(--cor-0);
 }
 
@@ -22,7 +22,7 @@
 
 @media (max-width: 780px) {
   .intro-img-content {
-    padding: 80px;
+    padding: 100px;
   }
   .intro-img-content h1 {
     font-size: 1.75rem;
